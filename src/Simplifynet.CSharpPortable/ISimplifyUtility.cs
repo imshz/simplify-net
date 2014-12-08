@@ -1,4 +1,5 @@
-﻿// High-performance JavaScript polyline simplification library
+﻿// High-performance polyline simplification library
+//
 // This is a port of simplify-js by Vladimir Agafonkin, Copyright (c) 2012
 // https://github.com/mourner/simplify-js
 // 
