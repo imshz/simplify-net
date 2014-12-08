@@ -1,4 +1,18 @@
-﻿using System;
+﻿// High-performance JavaScript polyline simplification library
+// This is a port of simplify-js by Vladimir Agafonkin, Copyright (c) 2012
+// https://github.com/mourner/simplify-js
+// 
+// The code is ported from JavaScript to C#.
+// The library is created as portable and 
+// is targeting multiple Microsoft plattforms.
+//
+// This library was ported by imshz @ http://www.shz.no
+// https://github.com/imshz/simplify-net
+//
+// This code is provided as is by the author. For complete license please
+// read the original license at https://github.com/mourner/simplify-js
+
+using System;
 
 namespace Simplifynet
 {

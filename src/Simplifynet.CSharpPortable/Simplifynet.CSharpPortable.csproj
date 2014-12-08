@@ -37,6 +37,7 @@
     <!-- A reference to the entire .NET Framework is automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ISimplifyUtility.cs" />
     <Compile Include="Point.cs" />
     <Compile Include="SimplifyUtility.cs" />
     <Compile Include="SimplifyUtility3D.cs" />
