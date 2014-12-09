@@ -1,7 +1,7 @@
 simplify-net
 ===========
 
-A .NET port of simplify-js (https://github.com/mourner/simplify-js)
+A .NET port of simplify-js (https://github.com/mourner/simplify-js)<br />
 Polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.
 For license see the original project
 
