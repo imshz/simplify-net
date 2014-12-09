@@ -12,14 +12,10 @@
 [Rr]elease/
 x64/
 build/
-[Bb]in/
 [Oo]bj/
 
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
-
-# Enable bin
-!bin/*
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -31,7 +27,6 @@ build/
 *.meta
 *.obj
 *.pch
-*.pdb
 *.pgc
 *.pgd
 *.rsp
