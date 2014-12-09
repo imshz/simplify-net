@@ -14,7 +14,7 @@ It targets: .NET Framework 4.5, Windows 8, Windows Phone 8.1 and Windows Phone S
 
 Install
 -------
-Download the precomplied librar from the bin folder. See the example for more help!
+Download the precomplied library from the bin folder. See the example for more help!
 
 Performance
 -----------
