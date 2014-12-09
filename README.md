@@ -5,7 +5,7 @@ A .NET port of simplify-js (https://github.com/mourner/simplify-js)<br />
 Polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.<br />
 For license see the original project or https://github.com/mourner/simplify-js/blob/master/LICENSE <br/>
 <br/>
-For more info on the .NET C# port visit my blog @ http://www.shz.no
+For more info on the C# .NET ported version visit my blog @ http://www.shz.no
 
 Targets
 -------
