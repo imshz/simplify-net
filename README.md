@@ -2,12 +2,12 @@ simplify-net
 ===========
 
 A .NET port of simplify-js (https://github.com/mourner/simplify-js)<br />
-Polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.
+Polyline simplification library by Vladimir Agafonkin, extracted from Leaflet.<br />
 For license see the original project
 
 Targets
 -------
-This port is written in C# as a portable library.
+This port is written in C# as a portable library.<br />
 It targets: .NET Framework 4.5, Windows 8, Windows Phone 8.1 and Windows Phone Silverlight 8
 
 Install
@@ -20,8 +20,8 @@ Performance for this project has absolute been in focus. All of the operations h
 
 Running test
 ------------
-The tests are also ported from the original project, see own solution with the tests.
-I am using NUnit to setup and run the tests, nunit dll is also included.
+The tests are also ported from the original project, see own solution with the tests.<br />
+I am using NUnit to setup and run the tests, nunit dll is also included.<br />
 More about NUnit, go to http://nunit.org
 
 # Example #
